@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CDR_BI_Platform", "CDR_BI_Platform\CDR_BI_Platform.csproj", "{69AE0060-DAA7-4793-A9ED-356026F8212D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerService", "WorkerService\WorkerService.csproj", "{4DB92748-2A93-415E-B799-C3D971983E45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69AE0060-DAA7-4793-A9ED-356026F8212D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69AE0060-DAA7-4793-A9ED-356026F8212D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69AE0060-DAA7-4793-A9ED-356026F8212D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69AE0060-DAA7-4793-A9ED-356026F8212D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DB92748-2A93-415E-B799-C3D971983E45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB92748-2A93-415E-B799-C3D971983E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB92748-2A93-415E-B799-C3D971983E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB92748-2A93-415E-B799-C3D971983E45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {661D68D5-B04A-46A7-A82D-B5D1A0D16F7B}
+	EndGlobalSection
+EndGlobal
